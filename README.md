@@ -30,4 +30,19 @@
             - Spring Version: 2023.0.3
             - Dependência Spring Cloud Starter Netflix Eureka Client
             - Gerenciador de dependências do Spring Cloud
-           
+
+# Semana 07 - Basic Authentication nos Microservices ServiceRegistry e ConfigServer 
+
+ - ### Implementação Basic Authentication no Service Registry
+ - Lins:
+   - [Spring Security Project](https://spring.io/projects/spring-security#overview)
+   - [Spring Security with Lambdas](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/index.html#publish-authentication-manager-bean)
+   - [Spring Netflix Eureka Documentation](https://docs.spring.io/spring-cloud-netflix/reference/spring-cloud-netflix.html#spring-cloud-eureka-server-standalone-mode)
+ - Aula
+   - 
+
+# Semana 07 - Authentication e Authorization com Projeto Spring Security
+
+# Semana 07 - Authentication e Authorization com Json Web Token (JWT)
+
+# Semana 07 - Cross Cutting - Authentication e Authorization com JWT em Microservices
