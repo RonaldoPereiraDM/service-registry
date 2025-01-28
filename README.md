@@ -34,7 +34,7 @@
 # Semana 07 - Basic Authentication nos Microservices ServiceRegistry e ConfigServer 
 
  - ### Implementação Basic Authentication no Service Registry
- - Lins:
+ - Links:
    - [Spring Security Project](https://spring.io/projects/spring-security#overview)
    - [Spring Security with Lambdas](https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/index.html#publish-authentication-manager-bean)
    - [Spring Netflix Eureka Documentation](https://docs.spring.io/spring-cloud-netflix/reference/spring-cloud-netflix.html#spring-cloud-eureka-server-standalone-mode)
