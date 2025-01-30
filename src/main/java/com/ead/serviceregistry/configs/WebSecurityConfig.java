@@ -1,4 +1,4 @@
-package configs;
+package com.ead.serviceregistry.configs;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
@@ -53,6 +53,8 @@ public class WebSecurityConfig {
                 .password(passwordEncoder().encode(password))         // Codifica a senha
                 .roles("ADMIN")                                      // Atribui papel ADMIN
                 .build();
+
+        System.out.println(userDetails.getPassword() + " USER NAME: " + userDetails.getUsername());
         // Retorna gerenciador em memória com o usuário criado
         return new InMemoryUserDetailsManager(userDetails);
     }
